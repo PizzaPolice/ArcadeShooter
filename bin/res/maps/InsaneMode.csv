@@ -1,0 +1,105 @@
+Enemy,Frame,xPos,yPos,xVel,yVel,xAcc,yAcc
+ShotgunDude,180,.3f ,0,1,3,0,0
+ShotgunDude,180,.7f ,0,-1,3,0,0
+ShotgunDude,210,.3f ,0,1,3,0,0
+ShotgunDude,210,.7f ,0,-1,3,0,0
+ShotgunDude,240,.3f ,0,1,3,0,0
+ShotgunDude,240,.7f ,0,-1,3,0,0
+ShotgunDude,270,.3f ,0,1,3,0,0
+ShotgunDude,270,.7f ,0,-1,3,0,0
+ShotgunDude,300,.3f ,0,1,3,0,0
+ShotgunDude,300,.7f ,0,-1,3,0,0
+ShotgunDude,330,.3f ,0,1,3,0,0
+ShotgunDude,330,.7f ,0,-1,3,0,0
+ShotgunDude,360,.3f ,0,1,3,0,0
+ShotgunDude,360,.7f ,0,-1,3,0,0
+SprinklerDude,400,.1f,0,0,1.5,0,0
+SprinklerDude,400,.3f ,0,0,1.5,0,0
+SprinklerDude,400,.5f,0,0,1.5,0,0
+SprinklerDude,400,.7f ,0,0,1.5,0,0
+SprinklerDude,400,.9f,0,0,1.5,0,0
+ShootingDude,480,.1f,0,1,3,0,0
+ShootingDude,480,.3f ,0,-1,3,0,0
+ShotgunDude,480,.5f,0,0,3,0,0
+ShootingDude,480,.7f ,0,-1,3,0,0
+ShootingDude,480,.9f,0,-1,3,0,0
+ShootingDude,540,.2f,0,1,3,0,0
+ShootingDude,540,.4f,0,1,3,0,0
+ShootingDude,540,.6f,0,-1,3,0,0
+ShootingDude,540,.8f ,0,-1,3,0,0
+ShootingDude,600,.1f,0,1,3,0,0
+ShootingDude,600,.3f ,0,1,3,0,0
+ShotgunDude,600,.5f,0,0,3,0,0
+ShootingDude,600,.7f ,0,-1,3,0,0
+ShootingDude,600,.9f,0,-1,3,0,0
+ShootingDude,660,.2f,0,1,3,0,0
+ShootingDude,660,.4f,0,1,3,0,0
+ShootingDude,660,.6f,0,-1,3,0,0
+ShootingDude,660,.8f ,0,-1,3,0,0
+ShootingDude,720,.1f,0,1,3,0,0
+ShootingDude,720,.3f ,0,-1,3,0,0
+ShotgunDude,720,.5f,0,0,3,0,0
+ShootingDude,720,.7f ,0,-1,3,0,0
+ShootingDude,720,.9f,0,-1,3,0,0
+ShootingDude,800,.2f,0,1,3,0,0
+ShootingDude,800,.4f,0,1,3,0,0
+ShootingDude,800,.6f,0,-1,3,0,0
+ShootingDude,800,.8f ,0,-1,3,0,0
+ShootingDude,860,.1f,0,1,3,0,0
+ShootingDude,860,.3f ,0,-1,3,0,0
+ShotgunDude,860,.5f,0,0,3,0,0
+ShootingDude,860,.7f ,0,-1,3,0,0
+ShootingDude,860,.9f,0,-1,3,0,0
+ShootingDude,920,.2f,0,1,3,0,0
+ShootingDude,920,.4f,0,1,3,0,0
+ShootingDude,920,.6f,0,-1,3,0,0
+ShootingDude,920,.8f ,0,-1,3,0,0
+SprinklerDude,1000,.1f,0,0,1.5,0,0
+SprinklerDude,1000,.3f ,0,0,1.5,0,0
+SprinklerDude,1000,.5f,0,0,1.5,0,0
+SprinklerDude,1000,.7f ,0,0,1.5,0,0
+SprinklerDude,1000,.9f,0,0,1.5,0,0
+SprayerDude,1040,0f,0,0,0,0.1,0.1
+SprayerDude,1040,1f,0,0,0,-0.1,0.1
+SprayerDude,1140,0f,0,0,0,0.1,0.1
+SprayerDude,1140,1f,0,0,0,-0.1,0.1
+SprayerDude,1240,0f,0,0,0,0.1,0.1
+SprayerDude,1240,1f,0,0,0,-0.1,0.1
+SprayerDude,1340,0f,0,0,0,0.1,0.1
+SprayerDude,1340,1f,0,0,0,-0.1,0.1
+Asteroid,1400,0f,0,0,4,0,0
+Asteroid,1400,.2f,0,0,4,0,0
+Asteroid,1400,.4f,0,0,4,0,0
+Asteroid,1400,.6f,0,0,4,0,0
+Asteroid,1400,.8f ,0,0,4,0,0
+Asteroid,1400,1f,0,0,4,0,0
+SprayerDude,1440,0f,0,0,0,0.1,0.1
+SprayerDude,1440,1f,0,0,0,-0.1,0.1
+SprayerDude,1440,0f,0,0,0,0.1,0.1
+SprayerDude,1440,1f,0,0,0,-0.1,0.1
+Asteroid,1500,.1f,0,0,4,0,0
+Asteroid,1500,.3f ,0,0,4,0,0
+Asteroid,1500,.5f,0,0,4,0,0
+Asteroid,1500,.7f ,0,0,4,0,0
+Asteroid,1500,.9f,0,0,4,0,0
+ShotgunDude,1540,.1f,0,1,3,0,0
+ShotgunDude,1540,.9f,0,-1,3,0,0
+ShotgunDude,1600,.1f,0,1,3,0,0
+ShotgunDude,1600,.9f,0,-1,3,0,0
+SprayerDude,1600,0f,0,0,0,0.1,0.1
+SprayerDude,1600,1f,0,0,0,-0.1,0.1
+ShotgunDude,1640,.1f,0,1,3,0,0
+ShotgunDude,1640,.9f,0,-1,3,0,0
+ShotgunDude,1680,.1f,0,1,3,0,0
+ShotgunDude,1680,.9f,0,-1,3,0,0
+SprinklerDude,1700,.1f,0,0,1.5,0,0
+SprinklerDude,1700,.3f ,0,0,1.5,0,0
+SprinklerDude,1700,.5f,0,0,1.5,0,0
+SprinklerDude,1700,.7f ,0,0,1.5,0,0
+SprinklerDude,1700,.9f,0,0,1.5,0,0
+ShotgunDude,1720,.1f,0,1,3,0,0
+ShotgunDude,1720,.9f,0,-1,3,0,0
+ShotgunDude,1760,.1f,0,1,3,0,0
+ShotgunDude,1760,.9f,0,-1,3,0,0
+ShotgunDude,1800,.1f,0,1,3,0,0
+ShotgunDude,1800,.9f,0,-1,3,0,0

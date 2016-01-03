@@ -1,0 +1,11 @@
+Enemy,Frame,xPos,yPos,xVel,yVel,xAcc,yAcc
+Asteroid,180,0,0,0,3,0,0
+Asteroid,180,.1f ,0,0,3,0,0
+Asteroid,180,.2f ,0,0,3,0,0
+Asteroid,180,.3f ,0,0,3,0,0
+Asteroid,180,.4f ,0,0,3,0,0
+Asteroid,180,.5f ,0,0,3,0,0
+Asteroid,180,.6f ,0,0,3,0,0
+Asteroid,180,.7f ,0,0,3,0,0
+Asteroid,180,.8f ,0,0,3,0,0
+Asteroid,180,.9f ,0,0,3,0,0
